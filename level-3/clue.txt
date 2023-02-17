@@ -1,0 +1,14 @@
+
+██╗░░░░░███████╗██╗░░░██╗███████╗██╗░░░░░  ██████╗░
+██║░░░░░██╔════╝██║░░░██║██╔════╝██║░░░░░  ╚════██╗
+██║░░░░░█████╗░░╚██╗░██╔╝█████╗░░██║░░░░░  ░█████╔╝
+██║░░░░░██╔══╝░░░╚████╔╝░██╔══╝░░██║░░░░░  ░╚═══██╗
+███████╗███████╗░░╚██╔╝░░███████╗███████╗  ██████╔╝
+╚══════╝╚══════╝░░░╚═╝░░░╚══════╝╚══════╝  ╚═════╝░
+
+Welcome to the third challenge!
+
+Here is the challenge clue:
+"can you see me? The buzzing sound holds the key to uncovering the flag. Let the shell be your guide as you journey into the hive of secrets."
+
+Good luck!
